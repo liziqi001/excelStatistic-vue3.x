@@ -10,7 +10,7 @@
     "axios": "^0.19.0",
     "core-js": "^3.1.2",
     "hbwsrc_special": "^0.1.8",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "js-cookie": "^2.2.1",
     "view-design": "^4.0.1",
     "vue": "^2.6.10",
